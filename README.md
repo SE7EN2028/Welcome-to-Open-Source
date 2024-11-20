@@ -1718,7 +1718,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/SE7EN2028 ">
-                    <img src="https://avatars.githubusercontent.com/u/184133751?v=4" width="100px;" alt="Shivam Choudhary"/>
+                    <img src="https://avatars.githubusercontent.com/u/184133751?v=4" width="100px;" alt="Ritik Anand"/>
                     <br />
                     <sub><b>Ritik Anand</b></sub>
                 </a>
