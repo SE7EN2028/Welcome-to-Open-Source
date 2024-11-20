@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SE7EN2028 ">
+                    <img src="https://avatars.githubusercontent.com/u/184133751?v=4" width="100px;" alt="Shivam Choudhary"/>
+                    <br />
+                    <sub><b>Ritik Anand</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
